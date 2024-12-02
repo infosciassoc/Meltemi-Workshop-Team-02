@@ -9,6 +9,9 @@ a powerful Greek LLM. The knowledge base of the RAG system is powered by a
 providing a rich collection of traditional and modern Greek recipes.
 
 The client is a simple Streamlit chatbot UI that allows users to interact with the RAG system and explore recipes. 
+
+**Disclaimer**: The server requires a machine with at least 8GB GPU VRAM in order to run the models successfully.
+
 ## Setup and Installation
 
 1. Clone the repository
