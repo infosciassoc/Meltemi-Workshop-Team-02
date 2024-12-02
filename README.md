@@ -25,6 +25,7 @@ conda create -n maicookbook python=3.11
 pip install -r requirements.txt
 ```
 4. Set up Environment Variables
+
 Create a .env file in the project root and add the following:
 ```bash
 API_BASE=<your-meltemi-api-url>
@@ -47,5 +48,5 @@ streamlit run app.py
 
 ## Contributors
 
--  [elzanou](https://github.com/elzanou)
+- [elzanou](https://github.com/elzanou)
 - [aspil](https://github.com/aspil)
